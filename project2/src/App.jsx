@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 
 const TURNS = {
-  X: 'X',
+  X: '× ',
   O: 'O'
 }
 
