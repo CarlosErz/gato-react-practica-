@@ -75,7 +75,7 @@ function App() {
   }
   return (
     <main className="board">
-      <h1>Lau te amu</h1>
+      <h1>React</h1>
       <button onClick={recetGame}>Empezar de nuevo</button>
       <section className="game">
         {
